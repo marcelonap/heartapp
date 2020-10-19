@@ -1,0 +1,116 @@
+#sangue {
+	background-image: url("heart 3.gif");
+	width: 70px;
+	height: 70px;
+	z-index: 4;
+	background-size: cover;
+	position: absolute;
+}
+#sangue2 {
+	background-image: url("heart 3.gif");
+	width: 70px;
+	height: 50px;
+	z-index: 4;
+	background-size: cover;
+	position: absolute;
+}
+
+#sangue3 {
+	background-image: url("heart 3.gif");
+	width: 70px;
+	height: 50px;
+	z-index: 4;
+	background-size: cover;
+	position: absolute;
+}
+
+#sangue4 {
+	background-image: url("heart 3.gif");
+	width: 70px;
+	height: 50px;
+	z-index: 4;
+	background-size: cover;
+	position: absolute;
+}
+
+#sangue5{
+	background-image: url("heart 3.gif");
+	width: 70px;
+	height: 50px;
+	z-index: 4;
+	background-size: cover;
+	position: absolute;
+}
+
+#sangue6{
+	background-image: url("heart 3.gif");
+	width: 70px;
+	height: 50px;
+	z-index: 4;
+	background-size: cover;
+	position: absolute;
+}
+
+#sangue7 {
+	background-image: url("heart 3.gif");
+	width: 70px;
+	height: 50px;
+	z-index: 4;
+	background-size: cover;
+	position: absolute;
+}
+
+#heart {
+	background-image: url("foto 5.jpg");
+	width: 500px;
+	height: 500px;
+	z-index: 1;
+	background-size: cover;
+}
+button {
+	background-color:#1bbbf5;
+	border-radius:23px;
+	border:5px solid #15b5d9;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:20px;
+	padding:13px 15px;
+	text-decoration:none;
+	text-shadow:-1px 0px 0px #2f6627;
+	content: ' \21B6';
+}
+button:hover {
+	background-color:#eb1111;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
+ #legenda{
+ 	position : absolute;
+ 	left: 700px;
+ 	top: 200px;
+ 	font-size: 50px;
+ 	 font-family: 'Red Hat Display', sans-serif;
+
+ 	 letter-spacing: 5px;
+ 	 color: rgba(255,0,0,0.5);
+ 	}
+ #Titulo{
+
+ 	display: inline-block;
+    position: absolute;
+    font: 50px Helvetica, Sans-Serif;
+    left: 700px;
+    top: 70px;
+    letter-spacing: 5px;
+    color: rgba(0,0,255,0.5);
+
+ }
+ 
+ p{
+ 	margin-top: 	250px;
+ 	font-size: 10px;
+ }
